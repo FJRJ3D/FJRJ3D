@@ -1,9 +1,5 @@
-## Sobre mi 
-![WavingHiGIF (2)](https://github.com/FJRJ3D/FJRJ3D/assets/26229894/4c103625-0273-4899-ad6d-5c72dd6bbf7d)
-Aqui va el texto
+## About Me
+Hello, my name is **Francisco José Retamero Jaime** and I'm a 3D Artist who is learning about programming with Factoria F5 👍
 
-## Current Stack
+![Uploading HackerHackerManGIF.gif…]()
 
-## Contact
-This is my email: **fjrj3d@gmail.com**
-## Github stats (Optional)
