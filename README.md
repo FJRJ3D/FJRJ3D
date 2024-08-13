@@ -1,4 +1,8 @@
+<div align="center">
+
 ![alt text](github-header-image.png)
+
+</div>
 
 # 💫 About Me:
 Hey there! I'm a passionate Backend and DevOps student currently sharpening my skills at Factoria F5 and Don Bosco. My journey in tech is fueled by a deep curiosity and a drive to build robust, scalable systems. Before diving into the world of code, I was a 3D artist, where I honed my eye for detail and creativity. Check out some of my past creative work on my portfolio: [ArtStation](https://www.artstation.com/fjrj3d).
