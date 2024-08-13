@@ -8,7 +8,7 @@ Hey there! I'm a passionate Backend and DevOps student currently sharpening my s
 - 🤝 **Seeking Help With:** Mastering advanced DevOps tools and practices.
 - 🌱 **Currently Learning:** Spring Boot, Docker, Kubernetes, and cloud infrastructure.
 - 💬 **Ask Me About:** Java, Shell scripting, and transitioning from 3D art to tech.
-- ⚡ **Fun Fact:** I can create a 3D model and then build a backend system to bring it to life!
+- ⚡ **Fun Fact:**  I can take a 3D model and transform it into an interactive experience!
 
 ## 🌐 Socials:
 
