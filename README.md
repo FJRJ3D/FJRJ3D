@@ -8,9 +8,8 @@
 Hey there! I'm a passionate Backend and DevOps student currently sharpening my skills at Factoria F5 and Don Bosco. My journey in tech is fueled by a deep curiosity and a drive to build robust, scalable systems. Before diving into the world of code, I was a 3D artist, where I honed my eye for detail and creativity. Check out some of my past creative work on my portfolio: [ArtStation](https://www.artstation.com/fjrj3d).
 
 - 🔭 **Currently Working On:** Enhancing my skills in backend development and DevOps practices.
-- 👯 **Looking to Collaborate On:** Exciting projects that blend creativity and technology.
 - 🤝 **Seeking Help With:** Mastering advanced DevOps tools and practices.
-- 🌱 **Currently Learning:** Spring Boot, Docker, Kubernetes, and cloud infrastructure.
+- 🌱 **Currently Learning:** Spring Boot and Docker.
 - 💬 **Ask Me About:** Java, Shell scripting, and transitioning from 3D art to tech.
 - ⚡ **Fun Fact:**  I can take a 3D model and transform it into an interactive experience!
 
